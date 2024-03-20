@@ -1,6 +1,7 @@
 #page {
     
     text-align: center;
+    background-color: lightblue;
  }
 
  div {
@@ -14,6 +15,8 @@
         color: black;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size: 40px;
+        margin-bottom: 8px;
+        margin
 
   }
  
@@ -21,5 +24,15 @@
 .links{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: purple;
 text-align: center;
-list-style-type: square}
+list-style-type: square;
+background: white;
+padding: 8px;
+margin-bottom: 16px;
+}
+
+.odin {margin: 8px;
+padding 8px; 
+border: 8px;
+color: blueviolet;}
+
 
